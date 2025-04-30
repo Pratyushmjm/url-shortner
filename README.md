@@ -22,6 +22,8 @@ npm or yarn
 🧠 Learning Resources
 This project was created while following Piyush Garg's YouTube tutorial.
 
+https://www.youtube.com/watch?v=4WvX9dBjiJo
+
 🙏 Acknowledgements
 
 Piyush Garg for the excellent tutorial
